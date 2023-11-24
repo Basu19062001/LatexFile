@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.0.1}%
+\contentsline {section}{\numberline {2}Motivation}{3}{section.0.2}%
+\contentsline {section}{\numberline {3}Project Objectives}{4}{section.0.3}%
+\contentsline {section}{\numberline {4}Literature Review}{4}{section.0.4}%
+\contentsline {section}{\numberline {5}Methodology}{5}{section.0.5}%
+\contentsline {section}{\numberline {6}Published Article Review}{6}{section.0.6}%
+\contentsline {section}{\numberline {7}Conclusion}{7}{section.0.7}%
+\contentsline {section}{\numberline {8}Future Work}{8}{section.0.8}%
