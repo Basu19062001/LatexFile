@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.4)  24 NOV 2023 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.4)  24 NOV 2023 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,13 +715,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 [1
 
-]
+] [2]
 
-LaTeX Warning: Citation `shaoo2020' on page 2 undefined on input line 115.
-
-[2]
-
-LaTeX Warning: Citation `shaoo2020' on page 3 undefined on input line 123.
+LaTeX Warning: Citation `shaoo2020' on page 3 undefined on input line 132.
 
 [3] [4] [5] [6] [7] (FetalMovementSynopsis.bbl [8]
 
@@ -737,11 +733,11 @@ Package rerunfilecheck Info: File `FetalMovementSynopsis.out' has not changed.
 (rerunfilecheck)             Checksum: 402CEE5A386806501BCB01BAD379596C;940.
  ) 
 Here is how much of TeX's memory you used:
- 16013 strings out of 476331
- 268484 string characters out of 5787766
+ 16029 strings out of 476331
+ 268606 string characters out of 5787766
  1857660 words of memory out of 5000000
  36065 multiletter control sequences out of 15000+600000
- 522501 words of font info for 99 fonts, out of 8000000 for 9000
+ 522893 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  110i,5n,106p,1020b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\saman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
@@ -750,7 +746,7 @@ ts/cm/cmbx10.pfb><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/saman/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on FetalMovementSynopsis.pdf (10 pages, 178528 bytes).
+Output written on FetalMovementSynopsis.pdf (10 pages, 182412 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  29 named destinations out of 1000 (max. 500000)
