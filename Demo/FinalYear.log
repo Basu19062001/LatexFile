@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.4)  24 NOV 2023 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.4)  24 NOV 2023 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./FetalMovementSynopsis.tex
-(FetalMovementSynopsis.tex
+**./FinalYear.tex
+(FinalYear.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30>
 (C:\Users\saman\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -492,13 +492,13 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\saman\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 \@indexfile=\write4
-\openout4 = `FetalMovementSynopsis.idx'.
+\openout4 = `FinalYear.idx'.
 
-Writing index file FetalMovementSynopsis.idx
+Writing index file FinalYear.idx
 \@glossaryfile=\write5
-\openout5 = `FetalMovementSynopsis.glo'.
+\openout5 = `FinalYear.glo'.
 
-Writing glossary file FetalMovementSynopsis.glo 
+Writing glossary file FinalYear.glo 
 (C:\Users\saman\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count313
@@ -549,8 +549,8 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(FetalMovementSynopsis.aux)
-\openout1 = `FetalMovementSynopsis.aux'.
+(FinalYear.aux)
+\openout1 = `FinalYear.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
@@ -587,9 +587,9 @@ ii
 \everyMPtoPDFconversion=\toks31
 )
 Package hyperref Info: Link coloring OFF on input line 54.
- (FetalMovementSynopsis.out) (FetalMovementSynopsis.out)
+ (FinalYear.out) (FinalYear.out)
 \@outlinefile=\write6
-\openout6 = `FetalMovementSynopsis.out'.
+\openout6 = `FinalYear.out'.
 
 
 *geometry* driver: auto-detecting
@@ -681,18 +681,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./figures//../../CollegeLogo.png, id=35, 372.52577pt x 372.52577pt>
-File: ./figures//../../CollegeLogo.png Graphic file (type png)
-<use ./figures//../../CollegeLogo.png>
-Package pdftex.def Info: ./figures//../../CollegeLogo.png  used on input line 9
-4.
+<../../CollegeLogo.png, id=35, 372.52577pt x 372.52577pt>
+File: ../../CollegeLogo.png Graphic file (type png)
+<use ../../CollegeLogo.png>
+Package pdftex.def Info: ../../CollegeLogo.png  used on input line 94.
 (pdftex.def)             Requested size: 135.89174pt x 135.89403pt.
 
 [0
 
 
-{C:/Users/saman/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures//.
-./../CollegeLogo.png (PNG copy)>] (FetalMovementSynopsis.toc
+{C:/Users/saman/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../../Colleg
+eLogo.png (PNG copy)>] (FinalYear.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (C:\Users\saman\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -710,7 +709,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@toc=\write7
-\openout7 = `FetalMovementSynopsis.toc'.
+\openout7 = `FinalYear.toc'.
 
 
 [1
@@ -723,34 +722,34 @@ LaTeX Warning: Citation `shaoo2020' on page 2 undefined on input line 115.
 
 LaTeX Warning: Citation `shaoo2020' on page 3 undefined on input line 123.
 
-[3] [4] [5] [6] [7] (FetalMovementSynopsis.bbl [8]
+[3] [4] [5] [6] [7] (FinalYear.bbl [8]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 ) [9
 
-] (FetalMovementSynopsis.aux)
+] (FinalYear.aux)
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `FetalMovementSynopsis.out' has not changed.
+Package rerunfilecheck Info: File `FinalYear.out' has not changed.
 (rerunfilecheck)             Checksum: 402CEE5A386806501BCB01BAD379596C;940.
  ) 
 Here is how much of TeX's memory you used:
- 16013 strings out of 476331
- 268484 string characters out of 5787766
+ 16011 strings out of 476331
+ 268096 string characters out of 5787766
  1857660 words of memory out of 5000000
- 36065 multiletter control sequences out of 15000+600000
+ 36064 multiletter control sequences out of 15000+600000
  522501 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,5n,106p,1020b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,5n,106p,1008b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\saman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/saman/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on FetalMovementSynopsis.pdf (10 pages, 178528 bytes).
+Output written on FinalYear.pdf (10 pages, 178528 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  29 named destinations out of 1000 (max. 500000)
