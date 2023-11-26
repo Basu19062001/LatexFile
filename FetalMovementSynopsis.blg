@@ -2,54 +2,47 @@ This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: FetalMovementSynopsis.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: unsrt.bst
-Reallocating 'name_of_file' (item size: 1) to 4 items.
-I couldn't open database file ref.bib
----line 29 of file FetalMovementSynopsis.aux
- : \bibdata{ref
- :             }
-I'm skipping whatever remains of this command
-I found no database files---while reading file FetalMovementSynopsis.aux
-Warning--I didn't find a database entry for "shaoo2020"
-You've used 0 entries,
-            1791 wiz_defined-function locations,
-            446 strings with 3552 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: synopsis.bib
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            512 strings with 4565 characters,
+and the built_in function-call counts, 962 in all, are:
+= -- 82
+> -- 81
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 33
+- -- 30
+* -- 93
+:= -- 178
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 2
+duplicate$ -- 22
+empty$ -- 49
+format.name$ -- 30
+if$ -- 178
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 17
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 19
 quote$ -- 0
-skip$ -- 1
+skip$ -- 14
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 39
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 8
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There were 2 error messages)
+while$ -- 7
+width$ -- 3
+write$ -- 24

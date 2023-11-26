@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.4)  25 NOV 2023 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.4)  26 NOV 2023 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,40 +715,31 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 [1
 
-] [2]
+] [2] [3] [4] [5] [6] [7] [8] (FetalMovementSynopsis.bbl [9]) [10
 
-LaTeX Warning: Citation `shaoo2020' on page 3 undefined on input line 132.
-
-[3] [4] [5] [6] [7] (FetalMovementSynopsis.bbl [8]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [9
-
-] (FetalMovementSynopsis.aux)
-
-LaTeX Warning: There were undefined references.
-
+]
+(FetalMovementSynopsis.aux)
 Package rerunfilecheck Info: File `FetalMovementSynopsis.out' has not changed.
 (rerunfilecheck)             Checksum: 402CEE5A386806501BCB01BAD379596C;940.
  ) 
 Here is how much of TeX's memory you used:
- 16029 strings out of 476331
- 268606 string characters out of 5787766
+ 16058 strings out of 476331
+ 268857 string characters out of 5787766
  1857660 words of memory out of 5000000
- 36065 multiletter control sequences out of 15000+600000
- 522893 words of font info for 107 fonts, out of 8000000 for 9000
+ 36072 multiletter control sequences out of 15000+600000
+ 523861 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,5n,106p,1020b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,5n,106p,1020b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\saman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/saman/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/saman/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on FetalMovementSynopsis.pdf (10 pages, 182411 bytes).
+TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/saman/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on FetalMovementSynopsis.pdf (11 pages, 200944 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 28742 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 30790 words of extra memory for PDF output out of 35830 (max. 10000000)
 

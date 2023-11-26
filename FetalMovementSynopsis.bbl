@@ -1,3 +1,16 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{b2}
+Radek Martinek, Jan Nedoma, Marcel Fajkus, Radana Kahankova, Jaromir Konecny,
+  Petr Janku, Stanislav Kepak, Petr Bilik, and Homer Nazeran.
+\newblock A phonocardiographic-based fiber-optic sensor and adaptive filtering
+  system for noninvasive continuous fetal heart rate monitoring.
+\newblock {\em Sensors}, 17(4):890, 2017.
+
+\bibitem{b1}
+K~Sowjanya, D~Dharani, S~Monisha, K~Kaviya, T~Logasundari, and M~Sowmiya.
+\newblock Iot based fetal monitoring system for prenatal care.
+\newblock {\em International Journal of Research in Engineering, Science and
+  Management}, 6(6):18--22, 2023.
 
 \end{thebibliography}
